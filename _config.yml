@@ -17,8 +17,8 @@ baseurl: ''
 
 # Author/Organization info to be displayed in the templates
 author: 
-  name: Nikolai Chowdhury
-  url: http://www.nikolai.in
+  name: Fanwood Environmental Commission
+  url: http://www.fanwoodec.org
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:
@@ -33,7 +33,7 @@ navigation:
 - text: Example Page
   url: example_page.html
   internal: true
-- text: Fanwood Environmenal Commission
+- text: Fanwood Environmental Commission
   url: http://www.fanwoodec.org
   internal: false
 
