@@ -8,4 +8,9 @@ Another element to the grant was done by Business consultant, Nikolai Chowdhury,
 
 On July 23, 2016 the Fanwood Green Team hosted the first Green Fair on the grounds of borough hall.
 
+Recently, the Fanwood Green Team was featured in the Suburban News, with students from TCNJ volunteering in the Fanwood Nature Center:
+
+![alt text](/assets/img/suburban.jpg "Sustainable NJ Team")
+
+
 Most recently, Fanwood was awarded a volunteer grant from Sustainable Jersey to help remove invasive plants from the Fanwood Nature Center.  This is an ongoing concern of the Fanwood Environmental Commission as well as the Fanwood Green Team.
