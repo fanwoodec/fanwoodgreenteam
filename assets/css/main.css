@@ -54,7 +54,7 @@ strong {
     font-size: 1.625em;
     font-family: "Avenir Next", Arial, sans-serif;
     font-weight: normal;
-    color: #919395;
+    color: #fff !important;
     margin: 0;
     line-height: 1.2941176470588236;
     display: inline-block;
@@ -238,8 +238,9 @@ section:before {
 header {
     width: 100%;
     border-bottom: 4px solid {{ site.brand_color }};
-    background-color: #fff;
+    background-color: #2cb34a;
     padding: 2em 0;
+    color: #fff;
 }
 
 

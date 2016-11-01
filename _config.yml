@@ -2,7 +2,7 @@
 permalink: /:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
-pygments: true
+highlighter: rouge
 
 # Title
 name: Fanwood Green Team
@@ -30,11 +30,17 @@ navigation:
 - text: Home
   url: index.html
   internal: true
-- text: Example Page
-  url: example_page.html
+- text: Presentations
+  url: presentations.html
   internal: true
+- text: Sustainable Jersey
+  url: http://www.sustainablejersey.com
+  internal: false
 - text: Fanwood Environmental Commission
   url: http://www.fanwoodec.org
+  internal: false
+- text: Fanwood Borough
+  url: http://www.fanwoodnj.org
   internal: false
 
 # Repo list
